@@ -1,0 +1,7 @@
+- [ ] Read `array_memory_model.md`
+- [ ] Complete `d01_reverse_array.py`
+- [ ] Read `two_pointer_technique.md`
+- [ ] Complete `d02_two_sum_sorted.py` through `d15_lcis.py`
+- [ ] Solve Day 1 platform problems
+- [ ] Review time and space complexity in `time_space_complexity_basics.md`
+- [ ] Fill out `speed_round.md`
